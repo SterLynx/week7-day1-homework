@@ -1,0 +1,1 @@
+var coupoundString = console.log(hereinbefore.slice(-5))
